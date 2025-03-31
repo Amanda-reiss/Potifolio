@@ -1,0 +1,124 @@
+.Navbar{
+    background-color: #81d8d8ea;
+    padding: 10px;
+    color:#012e30;
+    display:flex;
+    font-family: sans-serif;
+    border-top: 2px solid;
+
+}
+body{
+    background-color: #074a4d;
+
+}
+.Navbar__home{
+ 
+ padding-left: 569px ;
+ padding-right: 7px ;
+
+}
+.Navbar__contato
+{
+
+    padding-right: 7px ;
+}
+.Navbar__about
+{
+    
+    
+   
+    padding-right:7px ;
+}.Navbar__services
+{
+    
+
+    padding-right: 7px ;
+}
+a{
+
+color:#074749 ;
+text-decoration: none;
+}
+.container{
+    background-color: #012e30;
+    color: #074749;
+    margin-left: 33px;
+    margin-right: 29px;
+ text-align: center;
+}
+.container_texto{
+    background-color: #81d8d8ea;
+    color: #074749;
+    margin-left: 33px;
+    margin-right: 29px;
+ text-align: center;
+   
+}
+
+img{
+   width: 300px;
+    height: 300px;
+    display: block;
+    margin-left: 600px;
+    margin-top: 20px;
+    border-radius: 200px;
+    border: 4px solid;
+    color: #032729;
+
+}
+.container_sobremim{
+    color: #74c8cc;
+    
+}
+.projetos {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin-top: 40px;
+    }
+    .projeto-card {
+    background-color:#032729 ;
+    color:   #74c8cc;
+    padding: 20px;
+    border-radius: 10px;
+    width: 300px;
+    text-align: center;
+
+    }
+    footer {
+    background-color: #032729;
+    padding: 10px 0;
+    margin-top: 20px;
+    text-align: center;
+    }
+.link {
+    color: #74c8cc;
+    text-decoration: none;
+    font-weight: bold; 
+    display: block; 
+    margin-top: 10px; 
+}
+.social-links {
+    text-align: center;
+    color: #ffffff;
+    margin-top: 20px;
+    text-align: center;
+}
+p {
+    color: #74c8cc;
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.contato{
+    margin-top: 20px;
+    text-align: center;
+    color: #74c8cc;
+}
+h2{
+    text-align: center;
+    color: #74c8cc;
+}
+
